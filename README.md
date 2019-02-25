@@ -4,5 +4,5 @@ Hello and welcome to my site's Repository, i encourage you to not download any f
 
 Also, these files are copyrighted, if i find out that you have been violating my copyrighted content, then i will DMCA takedown your site.
 
-<b></b>
+<hr  color="Cyan">
 Copyrighted by MisterTee.
