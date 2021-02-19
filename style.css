@@ -1,5 +1,6 @@
 body {
-	background-color: 020049;
+        background-color: 020049;
+        background-image: url("");
 }
 p {
         font-family: arial;
@@ -13,8 +14,8 @@ ul {
         padding: 0;
         overflow: hidden;
         background-color: #0000FF;
-font-family: luckiest guy;
-        color: cyan;
+        font-family: passion one;
+        font-size:23px;
 }
 
 li {
@@ -23,12 +24,12 @@ li {
 
 li a {
         display: block;
-        color: white;
+        color: cyan;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
 }
 
 li a:hover {
-        background-color: #111;
+        background-color: darkblue;
 }
